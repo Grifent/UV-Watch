@@ -1,6 +1,7 @@
 # UV-Watch
 Arduino Nano based handheld device that can measure a user's UV intake over a day, and recommend when they should apply sunscreen or head inside. Also customisable based on user's skin type, as this affects the 'safe' levels of UV intake.<br>
-Components:<br>
+
+## Components:
 Arduino Nano<br>
 GUVA-S12SD UV Sensor<br>
 Monochrome 0.96 128x64 I2C/SPI OLED Display<br>
