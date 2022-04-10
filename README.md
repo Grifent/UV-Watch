@@ -15,7 +15,6 @@ Arduino<br>
 ezButton.h<br>
 U8g2lib.h<br>
 
-<br>
 ![image](https://user-images.githubusercontent.com/82748756/162622381-8f4c7592-d7fe-4a93-82f4-469eaa79f551.png)<br><br>
 ![image](https://user-images.githubusercontent.com/82748756/162622504-ce47db1b-620a-47a2-9ed4-096aaa5889b0.png)
 
